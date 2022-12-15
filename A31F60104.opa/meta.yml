@@ -1,0 +1,22 @@
+id: A31F60104
+title: Toh_113-The_White_Lotus_of_the_Good_Dharma-v1
+type: translation
+pechas:
+- I0782A286
+- IE29268A2
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-01-29T22:25:18.805Z'
+  creationid: BG
+  eft-text-id: UT22084-051-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_113-The_White_Lotus_of_the_Good_Dharma-v1
+alignment_to_base:
+  I0782A286/4A94: 67C8
+  IE29268A2/B989: 67C8
